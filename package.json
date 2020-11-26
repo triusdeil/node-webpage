@@ -1,0 +1,27 @@
+{
+  "name": "node-webpage",
+  "version": "1.0.0",
+  "description": "node-webpage",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/triusdeil/node-webpage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/triusdeil/node-webpage/issues"
+  },
+  "homepage": "https://github.com/triusdeil/node-webpage#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
